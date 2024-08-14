@@ -208,7 +208,7 @@ section {
 
 
     & .item {
-        transform: translateX(cal(100vw * var(--calculation)));
+        transform: translateX(calc(100vw * var(--calculation)));
         transition: 0.5s;
         opacity: 0;
 
